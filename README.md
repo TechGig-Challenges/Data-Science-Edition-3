@@ -10,4 +10,4 @@ In this competition, the participants have to write an algorithm which can extra
 
 **Competition Prize:** Rs. 40,000 (1st Rank), Rs. 30,000 (2nd Rank), Rs. 20,000 (3rd Rank), Rs. 1,000 (Top 10 Consolation prizes)
 
-**Competition Link:** Entity Extraction from Unstructured Data
+**Competition Link:** [Entity Extraction from Unstructured Data](https://www.techgig.com/challenge/datascienceedition3)
